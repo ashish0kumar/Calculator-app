@@ -64,6 +64,7 @@
 
 .calculator .equal:hover {
     background: #74598c;
+    border-radius: 10px;
 }
 
 .display {
