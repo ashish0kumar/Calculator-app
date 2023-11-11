@@ -84,3 +84,9 @@
     background: #1d1b1e;
     color: #e6e0e2;
 }
+
+@media (max-width: 600px) {
+    .container {
+        background: #1d1b1e;
+    }
+}
